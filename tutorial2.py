@@ -1,6 +1,6 @@
 import cv2
 import random
-img=cv2.imread("F:\python\OpenCV_tutorial\logo.jpg",-1)
+img=cv2.imread("F:\Learning Coding\OpenCV_tutorial\OpenCV-tutorial-practices\logo.jpg",-1)
 print(img)
 print(type(img))
 print(img.shape) #rows,collumn, channel, 3 values representing the value
